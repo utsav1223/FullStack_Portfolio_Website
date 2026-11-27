@@ -1,0 +1,319 @@
+{
+  "header": {
+    "fullName": "Utsav",
+    "headline": "Full-Stack Software Developer (MERN) · B.Tech CSE",
+    "summary": "Building scalable MERN-stack web applications, resilient REST APIs, and reproducible software systems with MongoDB, Express, React, and Node.js.",
+    "phone": "+91 9303010351",
+    "email": "utsav.12320586@lpu.in",
+    "location": "Korba, Chattisgarh",
+    "availability": "Open to SWE Internships & Full-Time Roles",
+    "resumeFileName": "UUCCV.pdf",
+    "links": {
+      "github": {
+        "label": "GitHub",
+        "url": "https://github.com/utsav1223",
+        "active": true
+      },
+      "linkedin": {
+        "label": "LinkedIn",
+        "url": "linkedin.com/in/utsavkrjha",
+        "active": true
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "url": "",
+        "active": false
+      },
+      "leetcode": {
+        "label": "LeetCode",
+        "url": "https://leetcode.com/u/UtsavKumarJha124/",
+        "active": true
+      },
+      "codeforces": {
+        "label": "Codeforces",
+        "url": "",
+        "active": false
+      }
+    }
+  },
+  "education": {
+    "degree": "B.Tech in Computer Science & Engineering",
+    "college": "National Institute of Technology",
+    "graduationYear": "2027",
+    "cgpa": "8.74",
+    "showCgpa": true,
+    "coreSubjects": [
+      "Data Structures & Algorithms (DSA)",
+      "Database Management Systems (DBMS)",
+      "Operating Systems (OS)",
+      "Computer Networks"
+    ]
+  },
+  "skills": {
+    "Languages": [
+      "JavaScript (ES2024)",
+      "TypeScript",
+      "Python",
+      "C++",
+      "SQL",
+      "Bash"
+    ],
+    "Frontend": [
+      "React 19",
+      "Next.js",
+      "Tailwind CSS",
+      "HTML5 / Canvas",
+      "WebSockets",
+      "Vite"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "JWT & OAuth2",
+      "Pytest",
+      "Redis Pub/Sub"
+    ],
+    "Databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "Redis",
+      "Mongoose / Prisma"
+    ],
+    "Cloud/DevOps/Tools": [
+      "Docker",
+      "Git & GitHub",
+      "Linux",
+      "AWS (EC2, S3)",
+      "Nginx"
+    ]
+  },
+  "experiences": [
+    {
+      "id": "exp-octahedron",
+      "projectName": "Project Octahedron",
+      "company": "Handshake AI",
+      "companyRole": "Software Engineering & AI Evaluation Contributor",
+      "role": "AI Agent Evaluation Contributor",
+      "startDate": "October 2026",
+      "endDate": "November 2026",
+      "duration": "October 2026 – November 2026",
+      "employmentType": "Project-based Contract",
+      "workMode": "Remote",
+      "year": "2026",
+      "category": "AI Evaluation & Quality Assurance",
+      "earningsAmount": "$150+ USD",
+      "earningsNumeric": 150,
+      "icon": "brain",
+      "shortDescription": "Evaluated conversational AI assistants through realistic user scenarios, comparative response analysis, factual validation and structured human feedback.",
+      "description": "Contributed to an AI agent evaluation project focused on assessing the communication quality, contextual understanding, factual accuracy and reliability of conversational AI assistants. Worked with realistic user scenarios, comparative response evaluations and structured human feedback to assess the quality of AI-generated responses.",
+      "responsibilities": [
+        "Designed realistic, context-aware prompts based on simulated user environments and everyday workflows.",
+        "Conducted comparative evaluations of conversational AI assistant responses.",
+        "Assessed response accuracy, helpfulness, completeness, coherence, tone and communication quality.",
+        "Verified factual claims and reported actions against available contextual information.",
+        "Identified inconsistencies, unsupported claims, incomplete responses and communication issues.",
+        "Evaluated contextual understanding and the ability of AI assistants to follow user instructions.",
+        "Provided structured, evidence-based feedback and detailed comparative evaluation rationales.",
+        "Followed established quality assurance guidelines to maintain consistency in evaluation outcomes."
+      ],
+      "skills": [
+        "AI Agent Evaluation",
+        "LLM Response Evaluation",
+        "Prompt Design",
+        "Comparative Analysis",
+        "Human Feedback",
+        "Quality Assurance",
+        "Factual Validation",
+        "Contextual Analysis",
+        "Analytical Thinking",
+        "Technical Documentation",
+        "Attention to Detail"
+      ],
+      "achievement": "Earned over $150 USD through paid contributions involving AI assistant evaluation, prompt design, response analysis and structured human feedback."
+    },
+    {
+      "id": "exp-dynamo",
+      "projectName": "Project Dynamo",
+      "company": "Handshake AI",
+      "companyRole": "Software Engineering & AI Evaluation Contributor",
+      "role": "Software Engineering Benchmark Contributor",
+      "startDate": "July 2026",
+      "endDate": "August 2026",
+      "duration": "July 2026 – August 2026",
+      "employmentType": "Project-based Contract",
+      "workMode": "Remote",
+      "year": "2026",
+      "category": "Software Engineering & Coding Agent Benchmarking",
+      "earningsAmount": "$650+ USD",
+      "earningsNumeric": 650,
+      "icon": "terminal",
+      "shortDescription": "Contributed to real-world software engineering benchmark tasks for evaluating coding agents using terminal-based environments, Docker, automated testing, reference solutions and GitHub workflows.",
+      "description": "Contributed to Terminal-Bench 2, a software engineering benchmarking initiative designed to evaluate AI coding agents through challenging, real-world technical tasks in terminal-based execution environments. Worked with reproducible development environments, reference implementations, automated testing, debugging and structured task validation to support reliable coding agent evaluation. This experience provided practical exposure to professional software development workflows, containerized environments, version control and software quality assurance.",
+      "responsibilities": [
+        "Contributed to designing and developing practical software engineering benchmark tasks.",
+        "Defined technical requirements, expected outputs and measurable acceptance criteria.",
+        "Worked with Docker-based environments to support reproducible task execution.",
+        "Developed reference solutions and automated test cases to validate task correctness.",
+        "Worked with Python, Bash scripting and Pytest for implementation and output verification.",
+        "Used terminal-based development environments for software engineering and debugging workflows.",
+        "Worked with Git and GitHub workflows, including repository management, branching, commits and pull requests.",
+        "Performed debugging and validation to identify implementation issues, test failures and environment inconsistencies.",
+        "Worked with benchmark execution tools to assess task solvability and coding agent performance.",
+        "Followed structured technical review, task validation and quality assurance guidelines."
+      ],
+      "skills": [
+        "Python",
+        "Docker",
+        "Linux",
+        "Bash Scripting",
+        "Git",
+        "GitHub",
+        "Pytest",
+        "Harbor",
+        "Terminal-Bench",
+        "Command Line Interface",
+        "Automated Testing",
+        "Software Engineering",
+        "Debugging",
+        "Technical Documentation",
+        "Coding Agent Benchmarking",
+        "Problem Solving"
+      ],
+      "achievement": "Earned over $650 USD through paid contributions to software engineering benchmark tasks involving coding agent evaluation, reproducible development environments, automated testing and technical validation."
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "PulseSync — Real-Time Collaborative Code & Incident Workspace",
+      "subtitle": "Low-latency multi-room engineering collaboration platform",
+      "categoryTag": "MERN · REAL-TIME",
+      "overview": "A full-stack collaborative workspace engineered with React, Node.js, Express, MongoDB, and Redis Pub/Sub. Handles multi-room state synchronization, role-based workspace permissions, and indexed revision snapshots with containerized deployment.",
+      "liveUrl": "https://pulsesync.example.com",
+      "githubUrl": "https://github.com/utsav-dev/pulsesync",
+      "techStack": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "WebSockets",
+        "Redis",
+        "Docker"
+      ],
+      "highlights": [
+        "Architected a stateful WebSocket gateway backed by Redis Pub/Sub to synchronize live edits and presence across concurrent rooms with sub-35ms broadcast latency.",
+        "Implemented stateless JWT access + rotating refresh token auth with RBAC workspace permissions and rate-limited API endpoints.",
+        "Designed indexed MongoDB & revision snapshot schemas, cutting historical diff query latency significantly.",
+        "Containerized multi-service builds with Docker Compose and automated CI checks plus reverse-proxy deployment."
+      ]
+    },
+    {
+      "id": "proj-2",
+      "title": "FinLedger — High-Throughput Expense & Settlement Engine",
+      "subtitle": "Double-entry ledger API with idempotent payment workflows",
+      "categoryTag": "FULL-STACK · API",
+      "overview": "An ACID-compliant financial ledger and expense settlement platform featuring idempotency-key request guards, strict schema validation, cursor-based pagination, and S3 receipt storage.",
+      "liveUrl": "https://finledger.example.com",
+      "githubUrl": "https://github.com/utsav-dev/finledger",
+      "techStack": [
+        "TypeScript",
+        "React",
+        "Express",
+        "PostgreSQL",
+        "Prisma",
+        "AWS S3"
+      ],
+      "highlights": [
+        "Built an ACID-compliant double-entry ledger using serializable database transactions and idempotency keys to prevent duplicate settlement writes under retry storms.",
+        "Secured user accounts with bcrypt password hashing, HTTP-only cookie sessions, and strict Zod request validation middleware.",
+        "Added cursor-based pagination and Redis query caching on analytics endpoints for fast, predictable API response times.",
+        "Deployed frontend and backend pipelines with S3 receipt storage, automated database migrations, and health-checked rollouts."
+      ]
+    },
+    {
+      "id": "proj-3",
+      "title": "CodeJudge — Sandboxed Online Execution & Contest Platform",
+      "subtitle": "Isolated container runner for timed coding assessments",
+      "categoryTag": "MERN · DOCKER",
+      "overview": "An isolated code execution and assessment engine that decouples submission intake via BullMQ + Redis worker queues and executes untrusted code inside resource-capped, non-root Docker containers.",
+      "liveUrl": "https://codejudge.example.com",
+      "githubUrl": "https://github.com/utsav-dev/codejudge",
+      "techStack": [
+        "MongoDB",
+        "Express",
+        "React",
+        "Node.js",
+        "BullMQ",
+        "Redis",
+        "Docker"
+      ],
+      "highlights": [
+        "Decoupled submission intake from execution using a BullMQ + Redis worker queue that schedules untrusted code inside memory- and CPU-capped Docker sandboxes.",
+        "Enforced strict execution timeouts, read-only root filesystems, and non-root container isolation to eliminate host-escape vectors.",
+        "Modeled test-case verdicts, problem metadata, and live leaderboard aggregations in MongoDB with compound indexing.",
+        "Implemented live Server-Sent Events (SSE) status streaming to React clients so verdicts update immediately without polling overhead."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-0a",
+      "category": "Paid Technical Contributions",
+      "title": "$800+ Earned Through Technical Contributions",
+      "metric": "$800+ USD",
+      "description": "Compensated for paid software engineering benchmarking and AI evaluation contributions on Handshake AI alongside B.Tech CSE studies.",
+      "url": ""
+    },
+    {
+      "id": "ach-0b",
+      "category": "Contract Engineering",
+      "title": "2 Professional Contract Projects Completed",
+      "metric": "02 Projects",
+      "description": "Delivered Project Dynamo (Terminal-Bench 2 coding agent benchmarking) and Project Octahedron (AI agent evaluation & QA).",
+      "url": ""
+    },
+    {
+      "id": "ach-1",
+      "category": "Hackathon",
+      "title": "Smart India Hackathon — Grand Finalist",
+      "metric": "Top 5 / 400+ Teams",
+      "description": "Led backend architecture and real-time telemetry ingestion pipeline for a 36-hour national finals build.",
+      "url": ""
+    },
+    {
+      "id": "ach-2",
+      "category": "DSA & Competitive Programming",
+      "title": "LeetCode Knight · 450+ Problems Solved",
+      "metric": "Rating 1890+",
+      "description": "Consistent weekly contest finishes across graphs, dynamic programming, and concurrency patterns.",
+      "url": "https://leetcode.com/u/utsav-dev"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "title": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "2026",
+      "credentialId": "AWS-CLF-C02",
+      "url": "https://aws.amazon.com/verification"
+    },
+    {
+      "id": "cert-2",
+      "title": "Meta Back-End Developer Professional Certificate",
+      "issuer": "Coursera · Meta",
+      "date": "2025",
+      "credentialId": "META-BE-2025",
+      "url": ""
+    },
+    {
+      "id": "cert-3",
+      "title": "Postman API Fundamentals Student Expert",
+      "issuer": "Postman",
+      "date": "2025",
+      "credentialId": "POSTMAN-API-EXP",
+      "url": ""
+    }
+  ]
+}

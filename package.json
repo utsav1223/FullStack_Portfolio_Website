@@ -1,0 +1,17 @@
+{
+  "name": "utsav-fullstack-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:backend": "node backend/server.js",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.11.0",
+    "dotenv": "^18.0.10",
+    "express": "^5.1.0",
+    "mongodb": "^7.9.1"
+  }
+}
